@@ -1,0 +1,233 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width: 100px;
+    padding-left: 0;
+}
+
+.food-one {
+    width: 100%;
+    height: 100%;
+    padding-left: 0;
+    margin: 0;
+}
+
+
+
+
+#button-one {
+    color: orange;
+    border: 0;
+    margin-right: 0;
+}
+
+#button-two {
+    background-color: orange;
+    color: white;
+    border-radius: 1px;
+    height: 40px;
+    width: 70px;
+    margin-left: 0;
+}
+
+#button-one:hover {
+    color: orange;
+}
+
+/* @media (max-width:1395px) {
+    #ab {
+        display: none;
+    }
+} */
+
+
+/* @media (max-width:1395px) {
+    #button-three {
+        display: block;
+
+    }
+}
+
+.container {
+    margin-left: 40px;
+}
+
+@media (max-width:798px) {
+    .container {
+        margin-left: 0;
+
+    }
+} */
+
+#second-row {
+    color: white;
+    height: auto;
+    background: #2b1e16;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+/* #rows {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+} */
+
+#card-one {
+    background: #2b1e16;
+    /* box-sizing: inherit; */
+    border: 0;
+    margin-left: 75px;
+}
+
+#card-img-top-one {
+    width: 120px;
+    aspect-ratio: auto 105 / 199;
+    height: 199px;
+    margin-left: 75px;
+}
+
+#card-body-one {
+    width: 100%;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+.hungry {
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+    color: black;
+    width: 100%;
+    height: auto;
+}
+
+#card-two {
+    width: 100%;
+    height: auto;
+}
+
+.food-order {
+    font-size: 24px;
+    font-weight: 300;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+    letter-spacing: -.3px;
+    color: #686b78;
+}
+
+/* @media (max-width:1395px) {
+
+    #header-two {
+        display: none;
+
+    }
+} */
+
+#header-two {
+    margin-top: 15px;
+}
+
+#form {
+    margin-top: 10px;
+}
+
+#button-four {
+    border-radius: 1px;
+    margin-left: -8px;
+    width: 100%;
+    color: white;
+    background: orange;
+    border: 0;
+}
+
+
+#search-bar {
+    border-radius: 1px;
+    height: 60px;
+    width: 100%;
+}
+
+#pop-city {
+    font-weight: 400;
+    font-size: 15px;
+    color: #a9abb2;
+    margin: 5px 0 10px 0;
+    letter-spacing: -.2px;
+    font-family: ProximaNova, arial, Helvetica Neue, sans-serif;
+
+}
+
+#cities {
+    font-size: 15px;
+    color: #a9abb2;
+    margin: 0 0 10px;
+    line-height: 20px;
+    /* font-family: ProximaNova, arial, Helvetica Neue, sans-serif; */
+}
+
+.span {
+    color: black;
+}
+
+#form-two {
+    display: none;
+}
+
+@media (max-width:1395px) {
+
+    #form-two {
+        display: inline;
+
+    }
+}
+
+
+#form-second {
+    margin-left: 20px;
+}
+
+#form-second.search-bar {
+    width: 150px
+}
+
+#dropdownMenuButton1 {
+    background: orange;
+    color: white;
+    border: 0;
+}
+
+#third-row {
+    width: 100%;
+    height: 300px;
+    background: white;
+}
+
+#card-two {
+    border: 0;
+}
+
+.bc {
+    display: none;
+    color: black;
+}
+
+@media (max-width:632px) {
+
+    .bc {
+        display: inline;
+
+    }
+
+    #hide {
+        display: none;
+    }
+}
